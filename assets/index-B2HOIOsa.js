@@ -1,0 +1,2 @@
+import{r,q as s,s as o,N as t}from"./vue-vendor-aIA-lF78.js";import"./lodash-BmZg10rb.js";import"./jszip-C7-yN4-L.js";import"./remark-CBsncvHK.js";import"./quill-BeGMbSWh.js";const a={class:"w-full h-full"},i=["src"],d={__name:"index",setup(c){const e=r("https://ujumedia.feishu.cn/wiki/FfGywfYynipf0kkUegscPjCsnZb?from=from_copylink");return(l,f)=>(o(),s("div",a,[t("iframe",{id:"iframe",class:"w-full h-full",src:e.value,frameborder:"0"},null,8,i)]))}};export{d as default};
+//# sourceMappingURL=index-B2HOIOsa.js.map
