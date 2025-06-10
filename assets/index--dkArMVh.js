@@ -1,0 +1,2 @@
+import{r as o,q as r,s,N as e}from"./vue-vendor-BgjGt3mC.js";import"./lodash-BmZg10rb.js";import"./jszip-C7-yN4-L.js";import"./remark-CBsncvHK.js";import"./quill-BeGMbSWh.js";const a={class:"w-full h-full"},t=["src"],d={__name:"index",setup(c){const l=o("http://114.242.180.2:8188/");return(i,m)=>(s(),r("div",a,[e("iframe",{id:"iframe",class:"w-full h-full",src:l.value,frameborder:"0",allow:"*",sandbox:"allow-same-origin allow-scripts allow-popups allow-forms"},null,8,t)]))}};export{d as default};
+//# sourceMappingURL=index--dkArMVh.js.map
